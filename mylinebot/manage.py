@@ -3,7 +3,7 @@
 import os
 import sys
 
-
+#2023/06/10 12:04修改
 def main():
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'mylinebot.settings')
     try:
